@@ -1,7 +1,2 @@
 #!/bin/bash
 gcc .c $CFILE
-#!/bin/bash
-#!/bin/bash
-gcc -c $CFILE>>1-compiler  
-echo gcc -c
-gcc -c $CFILE
