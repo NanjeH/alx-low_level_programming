@@ -7,8 +7,10 @@
 int main(void)
 
 {
+
 int num;
 char letter;
+
 for (num = 0; num < 16; num++)
 
 	putchar((num % 10) + '0');
